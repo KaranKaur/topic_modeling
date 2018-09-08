@@ -1,6 +1,8 @@
 # topic_modeling
 
 Detecting topics from multi-user chats (unstructured data) from Ubuntu Dialog Corpus.
+Implemented Topic Modeling with Latent Dirichlet Allocation using Name Entity Recognizer,
+Dependency Parser and Tagger from SpaCy on Ubuntu Dialog Corpus.
 
 
 ## Prerequisites

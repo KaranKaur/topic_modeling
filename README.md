@@ -3,7 +3,7 @@
 Detecting topics from multi-user chats (unstructured data) from Ubuntu Dialog Corpus.
 
 
-## Pre-requisites
+## Prerequisites
 
 - Python 3 (Anaconda)
 - NLTK
